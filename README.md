@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F5D5E0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full-Stack+Web+Developer;React+%7C+Laravel+%7C+SQL" alt="Typing SVG"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Raghad Al-Khous</h1>
+<h1 align="center">Hi 👋, I'm Raghad AlKhous</h1>
 <h3 align="center">Full-Stack Developer | React & Laravel | Problem Solver</h3>
 
 ---
