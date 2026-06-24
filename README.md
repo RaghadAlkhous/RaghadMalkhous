@@ -81,11 +81,6 @@
 
 ---
 
-##  GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=RaghadMAlkous&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ##  Connect With Me
  **Email:** raghadalkhous@gmail.com  
  **GitHub:** [RaghadMAlkous](https://github.com/RaghadMAlkous)  
